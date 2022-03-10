@@ -1,0 +1,23 @@
+{
+	"dashboard": {
+		"purchaseAmount": 910,
+		"website": "rahulshettyacademy.com"
+	},
+	"courses":[
+	{
+		"title": "Selenium",
+		"price": 50,
+		"copies" :6
+	},
+	{
+		"title": "JAVA",
+		"price": 60,
+		"copies" :7
+	},
+	{
+		"title": "Appium",
+		"price": 30,
+		"copies" :3
+	}
+	]
+}

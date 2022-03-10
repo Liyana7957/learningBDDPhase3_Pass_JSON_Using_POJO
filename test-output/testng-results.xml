@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="741" started-at="2022-03-10T09:24:19Z" finished-at="2022-03-10T09:24:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="741" started-at="2022-03-10T09:24:19Z" finished-at="2022-03-10T09:24:20Z">
+      <class name="testAPI.A3_Learning_Step3">
+        <test-method status="PASS" signature="complexJsonReadFromJsonFile()[pri:0, instance:testAPI.A3_Learning_Step3@3c5a99da]" name="complexJsonReadFromJsonFile" duration-ms="735" started-at="2022-03-10T14:54:19Z" finished-at="2022-03-10T14:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complexJsonReadFromJsonFile -->
+      </class> <!-- testAPI.A3_Learning_Step3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
