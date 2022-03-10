@@ -1,0 +1,39 @@
+{
+	"instructor" : "RahulShetty",
+	"url": "rahulshettyacademy",
+	"services" : "projectSupport",
+	"expertise": "Automation",
+	"courses": {
+		"webAutomation" :[
+		{
+			"courseTitle" : "Selenium",
+			"price": "50"
+		},
+		{
+			"courseTitle" : "BDD",
+			"price": "60"
+		},
+		{
+			"courseTitle" : "Cucumber",
+			"price": "30"
+		}
+		],
+		"api" :[
+		{
+			"courseTitle" : "Rest Assured",
+			"price": "70"
+		},
+		{
+			"courseTitle" : "SOAP UI",
+			"price": "80"
+		}
+		],
+		"mobile" :[
+		{
+			"courseTitle" : "Appium",
+			"price": "90"
+		}
+		]
+	},
+	"linkedIn": "www.rahulshettyacademy.in/linkedIn"
+}
